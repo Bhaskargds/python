@@ -5,3 +5,6 @@ z=x+y
 print(z)
 
 print(hello world)
+
+a=y-z
+print(a)
